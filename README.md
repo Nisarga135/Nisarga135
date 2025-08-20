@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nisarga v
-- 👀 I’m interested in software devlopment and testing
+- 👀 I’m interested in product and growth marketing
 
 <!---
 Nisarga135/Nisarga135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
